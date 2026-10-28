@@ -2,7 +2,7 @@
 
 Last updated: October 27, 2026
 
-This policy covers the upload tools used by the Waiver Radar and Capitol Tape channels (the Service), operated by Tony Fakhouri.
+This policy covers the upload tools used by the Waiver Radar, Capitol Tape and Line Alerts channels (the Service), operated by Tony Fakhouri.
 
 ## What the Service does
 
