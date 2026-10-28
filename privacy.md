@@ -2,7 +2,7 @@
 
 Last updated: October 27, 2026
 
-This policy covers the upload tools used by the Waiver Radar, Capitol Tape and Line Alerts channels (the Service), operated by Tony Fakhouri.
+This policy covers the upload tools used by the Waiver Radar, Capitol Tape and Line Alerts channels (the Service).
 
 ## What the Service does
 
@@ -27,7 +27,3 @@ The Service's use and transfer of information received from Google APIs adheres 
 ## Revoking access
 
 Access can be revoked at any time from the Google account permissions page, Instagram's Apps and Websites settings, or TikTok's app settings.
-
-## Contact
-
-Questions: https://github.com/tfak23
