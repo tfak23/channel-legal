@@ -1,6 +1,6 @@
-# Waiver Radar and Capitol Tape
+# Waiver Radar, Capitol Tape and Line Alerts
 
-Waiver Radar and Capitol Tape are independent short-form video channels covering sports and finance news. This site is the home of the tools that prepare and upload their videos.
+Waiver Radar, Capitol Tape and Line Alerts are independent short-form video channels covering sports and finance news. This site is the home of the tools that prepare and upload their videos.
 
 Privacy Policy: https://tfak23.github.io/channel-legal/privacy
 
